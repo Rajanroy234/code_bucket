@@ -1,0 +1,12 @@
+.view-container{
+    background-color: whitesmoke;
+    width: 65%;
+    margin: auto;
+    display: block;
+    margin-top: 10px;
+
+}
+.view-h1{
+    text-align: center;
+    color: rgb(238, 207, 149);
+}

@@ -1,0 +1,14 @@
+.first-section-register{
+    display: flex;
+    justify-content: space-around;
+    margin: 100px 0px;
+}
+.first-section-register div{
+    width: 30%; 
+}
+.right-section-register{
+    /* background-color: red; */
+}
+.left-section-register{
+    /* background-color: blue; */
+}

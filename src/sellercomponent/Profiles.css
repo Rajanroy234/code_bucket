@@ -1,0 +1,48 @@
+.profiles{
+    background-color: rgb(247, 240, 240);
+    width: 60%;
+    margin: auto;
+    display: block;
+}
+.profiles-containers{
+    /* background-color: red;
+    width: 70%;
+    display: block;
+    margin: auto; */
+    margin-top: 10px;
+}
+
+ .profiles-container-form{
+    display: flex;
+    justify-content: space-between;
+    width: 75%;
+    margin: auto;
+}
+.left{   
+    float: left;
+    width: 40%;
+}
+.rights{
+    float: right;
+    width: 33%;
+    margin-top: 31px;
+}
+.centers{
+    float: inline-start;
+    width: 98%;
+}
+
+.profiles-h1{
+    color: green;
+    padding-left: 96px;
+    font-family: sans-serif;
+}
+.profiles-h6{
+    color: green;
+} 
+.profiles-button{
+    /* color: black; */
+    /* background-color: aqua; */
+    padding-left: 240px;
+    margin-bottom: 10px;
+}

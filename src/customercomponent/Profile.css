@@ -1,0 +1,47 @@
+.xyz{
+    background-color: whitesmoke;
+    width: 60%;
+    margin: auto;
+    display: block;
+}
+.profile-container{
+    /* background-color: whitesmoke; */
+    /* width: 60%;
+    display: block;
+    margin: auto; */
+    margin-top: 10px;
+}
+.profile-container-form{
+    display: flex;
+    justify-content: space-between;
+    width: 75%;
+    margin: auto;
+    /* background-color: red; */
+}
+.left{   
+    float: left;
+    width: 40%;
+}
+.right{
+    float: right;
+    width: 33%;
+    margin-top: 31px;
+}
+.center{
+    float: inline-start;
+    width: 98%;
+}
+
+.profile-h1{
+    color: #ffc107;
+    padding-left: 97px;
+    font-family: sans-serif;
+    /* margin-top: 20px; */
+}
+.profile-h6{
+    color: #ffc107;
+}
+.profile-button{
+    padding-left: 240px;
+    margin-bottom: 20px;
+}

@@ -1,0 +1,18 @@
+.edit-container{
+    padding-left: 150px;
+    margin-top: 20px;
+}
+
+.edit-to-product{
+    background-color: rgb(248, 240, 240);
+    width: 50%;
+    height: 730px;
+}
+
+.edit-h1{
+    padding-left: 50px;
+}
+
+.edit-product-list{
+    padding-left: 50px;
+}
